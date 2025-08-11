@@ -1,0 +1,21 @@
+{
+  "votes": [
+    {
+      "id": 1,
+      "createdAt": "2025-07-28T17:11:52.737Z",
+      "matchId": "match10",
+      "teamChoice": "home",
+      "ipAddress": "102.176.94.231, 10.81.6.75",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:140.0) Gecko/20100101 Firefox/140.0"
+    },
+    {
+      "id": 2,
+      "createdAt": "2025-07-28T23:11:25.974Z",
+      "matchId": "match8",
+      "teamChoice": "home",
+      "ipAddress": "154.161.170.178, 10.81.4.25",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:140.0) Gecko/20100101 Firefox/140.0"
+    }
+  ],
+  "lastVoteId": 2
+}
